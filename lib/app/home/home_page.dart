@@ -37,7 +37,7 @@ class _HomePageState extends State<HomePage> {
                     height: 20,
                   ),
                   Text(
-                    'Android. Flutter. Dart. Python.\nLikes Traveling.',
+                    'Mobile Developer(Flutter). Dart. Python.\nLikes Traveling.',
                     style: Theme.of(context).textTheme.caption,
                     textScaleFactor: 2,
                     textAlign: TextAlign.center,

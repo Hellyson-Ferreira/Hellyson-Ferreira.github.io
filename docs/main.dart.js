@@ -37561,7 +37561,7 @@ X.n4.prototype={
 aJ:function(){return new X.zg(C.p)}}
 X.zg.prototype={
 L:function(a){var t=null,s=u.p
-s=H.b([new K.rY(C.j,100,t),new T.cf(t,20,t,t),L.iT("Hellyson Ferreria",t,t,4),new T.cf(t,20,t,t),L.iT("Android. Flutter. Dart. Python.\nLikes Traveling.",K.bD(a).S.Q,C.h9,2),new T.cf(t,40,t,t),T.QX(H.b([N.pM(new T.cf(40,40,U.n6("assets/github.png"),t),L.iT("Github",t,t,t),new X.Mx()),N.pM(new T.cf(40,40,U.n6("assets/telegram.png"),t),L.iT("Telegran",t,t,t),new X.My()),N.pM(new T.cf(40,40,U.n6("assets/discord.png"),t),L.iT("Discord",t,t,t),new X.Mz())],s),C.eR,C.kQ,C.iA),new T.cf(t,40,t,t),T.QX(H.b([N.pM(new T.cf(40,40,U.n6("assets/instagram.png"),t),L.iT("Instagram",t,t,t),new X.MA()),N.pM(new T.cf(40,40,U.n6("assets/face.webp"),t),L.iT("Facebook",t,t,t),new X.MB()),N.pM(new T.cf(40,40,U.n6("assets/linkedin.png"),t),L.iT("Linkedin",t,t,t),new X.MC())],s),C.eR,C.kQ,C.iA)],s)
+s=H.b([new K.rY(C.j,100,t),new T.cf(t,20,t,t),L.iT("Hellyson Ferreria",t,t,4),new T.cf(t,20,t,t),L.iT("Mobile Developer(Flutter). Dart. Python.\nLikes Traveling.",K.bD(a).S.Q,C.h9,2),new T.cf(t,40,t,t),T.QX(H.b([N.pM(new T.cf(40,40,U.n6("assets/github.png"),t),L.iT("Github",t,t,t),new X.Mx()),N.pM(new T.cf(40,40,U.n6("assets/telegram.png"),t),L.iT("Telegran",t,t,t),new X.My()),N.pM(new T.cf(40,40,U.n6("assets/discord.png"),t),L.iT("Discord",t,t,t),new X.Mz())],s),C.eR,C.kQ,C.iA),new T.cf(t,40,t,t),T.QX(H.b([N.pM(new T.cf(40,40,U.n6("assets/instagram.png"),t),L.iT("Instagram",t,t,t),new X.MA()),N.pM(new T.cf(40,40,U.n6("assets/face.webp"),t),L.iT("Facebook",t,t,t),new X.MB()),N.pM(new T.cf(40,40,U.n6("assets/linkedin.png"),t),L.iT("Linkedin",t,t,t),new X.MC())],s),C.eR,C.kQ,C.iA)],s)
 return new M.oz(new T.hV(C.aS,t,t,new E.wV(!0,new T.hV(C.aS,t,t,new T.ki(C.rU,new T.t7(C.E,C.kP,C.iA,C.eR,t,C.lQ,t,s,t),t),t),t),t),C.l,t)}}
 X.Mx.prototype={
 $0:function(){return C.W.i_(window,"https://github.com/Hellyson-Ferreira","hellyson")},
@@ -37582,7 +37582,7 @@ X.MC.prototype={
 $0:function(){return C.W.i_(window,"https://www.linkedin.com/in/hellyson-ferreira-380466176/","hellyson")},
 $S:10}
 F.uZ.prototype={
-L:function(a){return new S.nD(new X.n4(null),"Flutter Demo",X.Ud(C.U,C.kR,X.a_r()),!1,null)}}
+L:function(a){return new S.nD(new X.n4(null),"Hellyson",X.Ud(C.U,C.kR,X.a_r()),!1,null)}}
 N.lG.prototype={
 gl:function(a){return this.b},
 i:function(a,b){if(b>=this.b)throw H.c(P.aL(b,this,null,null,null))
