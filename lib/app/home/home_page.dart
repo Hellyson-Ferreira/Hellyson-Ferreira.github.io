@@ -21,10 +21,10 @@ class _HomePageState extends State<HomePage> {
                 children: <Widget>[
                   CircleAvatar(
                     radius: 100,
-                    backgroundColor: Colors.white,
-                    // backgroundImage: Image.network(
-                    //         'https://pickaface.net/gallery/avatar/manoel2anjos571f569be4daf.png')
-                    //     .image,
+                    //backgroundColor: Colors.white,
+                    backgroundImage: Image.asset(
+                            'assets/img.png')
+                        .image,
                   ),
                   SizedBox(
                     height: 20,
@@ -37,7 +37,7 @@ class _HomePageState extends State<HomePage> {
                     height: 20,
                   ),
                   Text(
-                    'Mobile Developer(Flutter). Dart. Python.\nLikes Traveling.',
+                    '🎓 Mobile Developer • Flutter • Dart 🎓',
                     style: Theme.of(context).textTheme.caption,
                     textScaleFactor: 2,
                     textAlign: TextAlign.center,
